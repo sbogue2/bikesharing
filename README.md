@@ -41,4 +41,4 @@ The purpose of this analysis is to analyze a dataset from a bikesharing company,
 
 ## Summary 
 
-* 
+* The majority of Citi Bike trips were by male subscribers that used the service to commute to and from work. There was no major differnce in usage between genders, other than there were less females that used the service in general. The analysis shows that the company may be missing out on subscribers, since there were a decent number of customers that used the service but were not subscribers. To look into this further, you could create visualizations that map the starting and stopping point of customers. These visualizations would help you see if there are areas of the city that you should focus your business on to help convert customers into subscribers.  
